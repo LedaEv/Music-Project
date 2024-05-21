@@ -1,1 +1,9 @@
-this explains our code
+We have created a program that allows the user to find and analyze songs. In some instances, you may hear a song but only remember a sentence/ word of it. This code allows you to find that said song based on the word you remember and get various information about it.
+
+The program works in the following way:
+1. the user is asked to search for keywords
+2. We use a spotify database to search for songs that match these keywords and display a maximum of 15 songs with their album titles and artist names
+3. Users are asked to give the number of the song they want the analysis for
+4. For the chosen song, we give a popularity rating, a sentiment analysis (negative or positive), links to a 30 seconds extract, link to the spotify album page, audio features such as danceability, and tempo and we print the lyrics in English
+
+
